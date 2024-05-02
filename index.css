@@ -110,4 +110,9 @@ body {
     font-weight: 600;
 }
 
+.social-media .button:hover {
+    background-color: #111111; /* Üzerine gelindiğinde arka plan rengi değişir */
+    color: #ffffff; /* Üzerine gelindiğinde metin rengi değişir */
+}
+
 /* Button-End */
